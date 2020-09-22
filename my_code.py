@@ -7,4 +7,4 @@
 
 x = input ("What's your name?")
 input (f"Hi {x}! How do you think you'll die?")
-print ("That sounds sad!")
+print (f"That sounds sad! I'm sorry {x}")
