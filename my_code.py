@@ -6,5 +6,5 @@
 
 
 x = input ("What's your name?")
-input (f"Hi {x}! How do you think you'll die?")
-print (f"That sounds sad! I'm sorry {x}")
+y = input (f"Hi {x}! How do you think you'll die?")
+print (f"That sounds sad! I'm sorry that you think you will die {y}, {x}")
